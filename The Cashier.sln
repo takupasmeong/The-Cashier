@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Cashier", "The Cashier\The Cashier.csproj", "{974B3376-6CB2-49D6-AF50-69858DC14FDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A8CE65F5-282E-4395-B353-2A2FA65802BB}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{974B3376-6CB2-49D6-AF50-69858DC14FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974B3376-6CB2-49D6-AF50-69858DC14FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974B3376-6CB2-49D6-AF50-69858DC14FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974B3376-6CB2-49D6-AF50-69858DC14FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D42DA7CC-0A50-4897-A286-2E7A42DAE18D}
+	EndGlobalSection
+EndGlobal
